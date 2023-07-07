@@ -1,2 +1,13 @@
-# Language-Detection
-Language Detection using Machine Learning
+# تشخیص زبان متن با هوش مصنوعی
+![Screenshot_20230707_034517](https://github.com/amireol/Language-Detection/assets/77222912/bfed124f-e631-446d-a0c1-25b54a725cc5)
+
+- آنالیز داده و رسم نمودار جهت تحلیل بصری داده
+- پیش پردازش داده برای آموزش دهی مدل یادگیری ماشینی
+- آموزش مدل بیز ساده چندجمله ای با این داده
+- ارزیابی عنلکرد مدل یادگیری ماشینی => دقت 96 درصد
+
+این داده حاوی 22 هزار متن است که با 22 زبان برچسب گذاری شده است.
+
+# لینک صفحه اینستاگرام: https://instagram.com/amirdatascience
+# لینک چنل تلگرام: https://t.me/amirdatascience
+    
